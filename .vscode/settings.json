@@ -1,0 +1,13 @@
+{
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[css]": {
+        "editor.formatOnSave": true
+    },
+    "[json]": {
+        "editor.formatOnSave": true
+    },
+    "editor.formatOnSave": false,
+    "workbench.colorTheme": "One Dark Pro",
+}
